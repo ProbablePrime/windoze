@@ -1,5 +1,3 @@
-#r "./windoze/WindowScrape.dll"
-
 using System;
 using System.Drawing;
 using System.Collections.Generic;
